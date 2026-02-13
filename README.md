@@ -43,24 +43,6 @@ A Full-Stack Web Application designed to efficiently manage and optimize campus 
 
 ---
 
-## 📂 Project Structure
-campus-resource-optimization-platform
-│
-├── backend
-│ ├── config
-│ ├── controllers
-│ ├── middleware
-│ ├── models
-│ ├── routes
-│ ├── utils
-│ └── server.js
-│
-├── frontend
-│ ├── public
-│ └── src
-│
-└── .gitignore
-
 Complete Installation & Setup Guide
 📌 1️⃣ Clone the Repository
 
