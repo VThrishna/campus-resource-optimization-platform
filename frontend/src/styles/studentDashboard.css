@@ -1,0 +1,42 @@
+.student-dashboard {
+  padding: 24px;
+}
+
+.booking-section {
+  margin-bottom: 32px;
+}
+
+.booking-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 16px;
+  margin-top: 12px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.booking-card p {
+  margin: 4px 0;
+}
+
+.status {
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 12px;
+}
+
+.status.booked {
+  background: #e0f7e9;
+  color: #0a7a3d;
+}
+
+.status.cancelled {
+  background: #fdecea;
+  color: #b42318;
+}
+
+.empty {
+  color: #777;
+  font-style: italic;
+}
